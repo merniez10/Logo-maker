@@ -1,2 +1,15 @@
 # Logo-maker
-A Node.js command-line application that takes in user input to generate a logo and save it as an SVG file
+## Description
+A Cli application that allows you to create your own logo based on your answers to the given questions.
+
+## link
+
+
+## License
+N/A
+
+## Credits
+Sought guidance from U of U's software developer tutors.
+
+## Github
+https://github.com/merniez10
